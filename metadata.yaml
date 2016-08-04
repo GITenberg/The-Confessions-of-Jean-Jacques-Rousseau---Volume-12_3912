@@ -1,0 +1,29 @@
+_repo: The-Confessions-of-Jean-Jacques-Rousseau---Volume-12_3912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rousseau, Jean-Jacques
+    aliases:
+    - Rousseau, Jean Jacques
+    - Rousseau, J. J. (Jean-Jacques)
+    birthdate: 1712
+    deathdate: 1778
+    gutenberg_agent_id: '1286'
+    url: http://www.gutenberg.org/2009/agents/1286
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau
+description: ''
+gutenberg_issued: '2004-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Authors, French -- 18th century -- Biography'
+- !lcsh 'Rousseau, Jean-Jacques, 1712-1778'
+- GITenberg
+title: The Confessions of Jean Jacques Rousseau — Volume 12
+url: http://www.gutenberg.org/ebooks/3912
